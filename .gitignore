@@ -3,3 +3,6 @@
 
 # Ignoring .ipynb_checkpoints file
 .ipynb_checkpoints
+Ring-Resonator/halfring_bend.fsp
+Ring-Resonator/halfring_bend.fsp
+*.fsp
